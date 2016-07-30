@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="needybot_choreography" type="animator.py" name="animator" output="screen"/>
+  <test test-name="test_animator" pkg="needybot_choreography" type="test_animator.py"/>
+</launch>

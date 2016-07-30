@@ -1,0 +1,11 @@
+#animation constants
+string SPIN = "spin"
+
+#goal definition
+string animation 
+---
+#result definition
+bool success 
+---
+#feedback
+bool playing 
